@@ -1,0 +1,16 @@
+{
+    "faturamento": [
+      {
+        "mes": "Janeiro",
+        "valor": 1000.00
+      },
+      {
+        "mes": "Fevereiro",
+        "valor": 1200.00
+      },
+      {
+        "mes": "Março",
+        "valor": 1100.00
+      }
+    ]
+  }
